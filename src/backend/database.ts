@@ -29,7 +29,7 @@ PoolEpoch and ValidatorEpoch have many to many relationship
 We also need a table to convert epoch credits to points
 
 getEpochInfo
-https://solana-labs.github.io/solana-web3.js/modules.html#epochinfo
+https://solana-labs.github.io/solana-web3.js/v1.x/modules.html#epochinfo
 */
 
 export function createValidatorTable(
